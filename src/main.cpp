@@ -9,7 +9,7 @@ void test(std::vector<int> &values, int m, bool balance);
 void generate_values(std::vector<int> &values, size_t size, bool sort);
 
 int main() {
-    std::cout << "Insira M e N: ";
+    std::cout << "Insira N e M: ";
 
     size_t n = 0;
     std::cin >> n;
